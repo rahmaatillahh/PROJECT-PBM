@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/drawable/btn_bg.xml" value="0.12" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/drawable/ic_wave.xml" value="0.236" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/activity_infobe.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/activity_infoker.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/activity_lokersatu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/activity_lokertiga.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/activity_utama.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/cariinfo.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/infobe.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/infoker.xml" value="0.253125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/lokerdua.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/lokerempat.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/lokersatu.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/lokertiga.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PBM/app/src/main/res/layout/utama.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.152" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PBM</string>
+    <string name="infobeker">INFOBEKER</string>
+    <string name="welcome">SELAMAT DATANG DI INFOBEKER!</string>
+    <string name="deskripsiinfo">INFOBEKER merupakan Aplikasi yang menyediakan beragam macam informasi Beasiswa dan info Lowongan Kerja</string>
+    <string name="button">Lihat Info</string>
+    <string name="maucari">Mau cari tau info apa nih?</string>
+    <string name="button_info_be">Info Beasiswa</string>
+    <string name="button_info_lo">Info lowongan Kerja</string>
+    <string name="info_bea">Info Beasiswa</string>
+    <string name="link_be_1">1. Beasiswa Bank Indonesia, More info click link : <a href="http://www.kemahasiswaan.unsyiah.ac.id/"> Beasiswa Usk</a></string>
+    <string name="link_be_2">2. Beasiswa Prestasi Rumah Amal More info click link : <a href="http://www.rumahamal.unsyiah.ac.id/"> Beasiswa Rumah Amal</a></string>
+    <string name="link_be_3">3. Beasiswa Djarum More info click link : <a href=" https://djarumbeasiswaplus.org/mobile/"> Beasiswa Djarum</a></string>
+    <string name="link_be_4">4. Beasiswa Sejutacita x Bakrie More info click link : <a href="https://www.instagram.com/sejutacita.id/"> Beasiswa Sejutacita</a></string>
+    <string name="link_be_5">5. Beasiswa Ama Scholarship More info click link : <a href="https://www.bit.ly/beas795"> Beasiswa Ama Scholarship</a></string>
+    <string name="link_be_6">6. Beasiswa Bakti BCA More info click link : <a href="http://bit.ly/beas804"> Beasiswa Bakti BCA</a></string>
+    <string name="info_lo">Info Lowongan Kerja</string>
+    <string name="link_lo_1">1. Bimbel Pelita Al Fuslam</string>
+    <string name="link_lo_2">2. Rc Skin Clinic </string>
+    <string name="link_lo_3">3. Laundry </string>
+    <string name="link_lo_4">4. Penjaga Outlet </string>
+    <string name="buttonlo1">Lihat Info</string>
+    <string name="buttonlo2">Lihat Info</string>
+    <string name="buttonlo3">Lihat Info</string>
+    <string name="buttonlo4">Lihat Info</string>
+    <string name="buttonback">Back</string>
+
+</resources>
+
+
